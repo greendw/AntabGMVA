@@ -1,0 +1,8 @@
+setup.py
+antabgmva/__init__.py
+antabgmva/antabgmva.py
+antabgmva.egg-info/PKG-INFO
+antabgmva.egg-info/SOURCES.txt
+antabgmva.egg-info/dependency_links.txt
+antabgmva.egg-info/requires.txt
+antabgmva.egg-info/top_level.txt
