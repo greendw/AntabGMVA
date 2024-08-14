@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: antabgmva
+Version: 24.813
+Summary: A Python tool for managing GMVA metadata
+Home-page: https://github.com/greendw/AntabGMVA
+Author: Daewon Kim
+Author-email: dwkimastro@gmail.com
+License: GPLv3
+Keywords: VLBI observation ANTAB Tsys calibration
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Programming Language :: Python :: 3.8
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: matplotlib
