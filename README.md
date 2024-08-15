@@ -3,27 +3,29 @@ A Python tool for managing GMVA ANTAB files
 
 
 
-# Installation
+## Installation
 
 
-# Contact Info.
+## Contact Info.
 
 
-# Citation
+## Citation
 
 
 
-# How to Use?
+## How to Use?
 Manual/Tutorial
 
 
 
 
+## Important notes
 
 
 
 
-# License
+
+## License
 
 The MPIfR correlation team
 
