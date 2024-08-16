@@ -24,6 +24,17 @@ If the installation was successful, `antabgmva` should be in the list:
 $ pip list
 ```
 
+Requirements
+* `Python3.x`: v3.8 and v3.12 checked, but the lower versions of `Python3` should also be fine.
+* `Numpy`
+* `Matplotlib`
+* `Scipy`
+
+Others
+* It is recommended to use the `IPython` interface (v7.x and v8.x checked).
+* Not all the matplotlib backends were checked, but it works with `Qt5Agg` and `tkagg`.
+
+
 
 
 ## How to Use?
