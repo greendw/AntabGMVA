@@ -65,11 +65,11 @@ If you use this program in your publication, please cite ASCL:....
 
 
 ## Important notes
-
-Careful GLT - delimeter & Day-format
+Any useful information will be added here.
 
 
 
 ---
 
 Thank you for visiting.
+
