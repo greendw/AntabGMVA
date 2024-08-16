@@ -38,8 +38,9 @@ Others
 
 
 ## How to Use?
-Manual/Tutorial
+A complete Manual/Tutorial pdf file is at [tutorial/AntabGMVA_tutorial.pdf](https://github.com/greendw/AntabGMVA/blob/main/tutorial/AntabGMVA_tutorial.pdf).
 
+This program is very easy to use. Example datasets for the tutorial are at [examples/](https://github.com/greendw/AntabGMVA/tree/main/examples).
 
 
 ## Contact Info.
