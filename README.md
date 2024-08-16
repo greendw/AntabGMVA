@@ -49,7 +49,7 @@ About the Code
 * Email: dwkim@mpifr-bonn.mpg.de (or dwkimastro@gmail.com)
 
 For GMVA metadata Query
-* ...@...
+* TBD@TBD
 
 GMVA data are processed by the MPIfR correlator in Bonn, Germany. Then the correlation team will send the processed GMVA data (FITS-IDI) to PIs with the metadata (ANTAB, WX, etc.).
 
@@ -57,7 +57,7 @@ GMVA data are processed by the MPIfR correlator in Bonn, Germany. Then the corre
 
 
 ## Citation
-If you use this program in your publication, please cite ASCL:....
+If you use this program in your publication, please cite ASCL:TBD
 
 
 
