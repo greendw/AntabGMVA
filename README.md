@@ -16,6 +16,10 @@ Four Advantages
 
 ## Installation
 
+```
+$ pip install antabgmva
+```
+
 
 
 ## How to Use?
