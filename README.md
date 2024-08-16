@@ -7,11 +7,11 @@ Principle Investigators (PIs) of Global mm-VLBI Array ([GMVA](https://www3.mpifr
 
 AntabGMVA is a Python program that allows GMVA users to manage the GMVA ANTAB files easily.
 
-Four Advantages
-* AIPS/CASA(rPICARD)-readable format
-* Erroneous Tsys values
-* Overview/expectation about the data
-* Create the convenient All-in-One ANTAB file
+## Why it is useful
+* Convert some of the unusual ANTAB files into the AIPS/CASA(rPICARD)-readable formats
+* Replace erroneous Tsys values with reasonable values by using linear interpolation
+* Create the convenient All-in-One ANTAB file instead of carrying all those individual files
+* Get an overview/expectation about your GMVA data (i.e., data quality)
 
 
 ## Installation
