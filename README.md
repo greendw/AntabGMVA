@@ -43,11 +43,14 @@ Manual/Tutorial
 
 
 ## Contact Info.
-Daewon Kim (Max-Planck-Institut für Radioastronomie; MPIfR)
-Email: dwkim@mpifr-bonn.mpg.de (or dwkimastro@gmail.com)
+About the Code
+* Daewon Kim (Max-Planck-Institut für Radioastronomie; MPIfR)
+* Email: dwkim@mpifr-bonn.mpg.de (or dwkimastro@gmail.com)
 
-GMVA data are processed at the MPIfR correlator in Bonn, Germany. Then the correlation team will send the processed GMVA data to PIs with the metadata.
-For metadata query, contact ...
+For GMVA metadata Query
+* ...@...
+GMVA data are processed at the MPIfR correlator in Bonn, Germany. Then the correlation team will send the processed GMVA data (FITS-IDI) to PIs with the metadata (ANTAB, WX, etc.).
+
 
 
 
