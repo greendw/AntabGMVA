@@ -32,7 +32,7 @@ Requirements
 
 Others
 * It is recommended to use the `IPython` interface (v7.x and v8.x checked).
-* Not all the matplotlib backends were checked, but `Qt5Agg` and `tkagg` checked.
+* Not all the matplotlib backends were checked, but it works with `Qt5Agg` and `tkagg`.
 
 
 
