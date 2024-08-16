@@ -25,7 +25,7 @@ Manual/Tutorial
 
 ## Contact Info.
 
-
+The MPIfR correlation team
 
 
 ## Citation
@@ -35,19 +35,9 @@ Manual/Tutorial
 
 ## Important notes
 
-
-
-
-
-## License
-
-The MPIfR correlation team
-
-
 Careful GLT - delimeter & Day-format
 
 
 
+--
 Thank you for visiting.
-
-
