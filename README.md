@@ -19,6 +19,10 @@ The latest version is v24.813. Install it via `pip`.
 ```
 $ pip install antabgmva
 ```
+If the installation was successful, `antabgmva` should be in the list:
+```
+$ pip list
+```
 
 
 
