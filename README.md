@@ -3,9 +3,9 @@
 <b>"That is a very comfortable way to manage ANTAB files"</b><br>
 _&ensp;- Alan Roy (MPIfR), 2024_
 
-The so-called ANTAB files will be sent to Principle Investigators (PIs) of Global mm-VLBI Array ([GMVA](https://www3.mpifr-bonn.mpg.de/div/vlbi/globalmm/)) observations. The ANTAB files contain lots of metadata such as the system temperature (Tsys) that was measured/monitored by each of the GMVA antenna stations during the observations. The Tsys measurements are essential in the amplitude calibration of GMVA data to generate science-ready data products. But unfortunately, the metadata are not complete and there are almost always erroneous values in them.
+Principle Investigators (PIs) of Global mm-VLBI Array ([GMVA](https://www3.mpifr-bonn.mpg.de/div/vlbi/globalmm/)) observations will receive the so-called ANTAB files. The ANTAB files contain lots of metadata such as the system temperature (Tsys) that was measured/monitored by each of the GMVA antenna stations during the observations. The Tsys measurements are essential in the amplitude calibration of GMVA data to generate science-ready data products. But unfortunately, the metadata are not complete and there are almost always erroneous values in them.
 
-This Python program allows GMVA users to 
+AntabGMVA is a Python program that allows GMVA users to manage the GMVA ANTAB files easily.
 
 Four Advantages
 * AIPS/CASA(rPICARD)-readable format
