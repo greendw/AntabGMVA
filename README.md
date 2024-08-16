@@ -15,7 +15,7 @@ Four Advantages
 
 
 ## Installation
-
+The latest version is v24.813. Install it via '''pip'''.
 ```
 $ pip install antabgmva
 ```
