@@ -11,7 +11,7 @@ AntabGMVA is a Python program that allows GMVA users to manage the GMVA ANTAB fi
 * Convert some of the unusual ANTAB formats into the AIPS/CASA(rPICARD)-readable format
 * Replace erroneous Tsys values with reasonable values by using linear interpolation
 * Create the convenient All-in-One ANTAB file instead of carrying all those individual data files
-* Get an overview/expectation about your GMVA data (i.e., data quality)
+* Get an overview/expectation about the individual antennas of your GMVA data (i.e., data quality)
 
 
 ## Installation
