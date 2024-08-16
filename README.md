@@ -51,7 +51,7 @@ About the Code
 For GMVA metadata Query
 * ...@...
 
-GMVA data are processed at the MPIfR correlator in Bonn, Germany. Then the correlation team will send the processed GMVA data (FITS-IDI) to PIs with the metadata (ANTAB, WX, etc.).
+GMVA data are processed by the MPIfR correlator in Bonn, Germany. Then the correlation team will send the processed GMVA data (FITS-IDI) to PIs with the metadata (ANTAB, WX, etc.).
 
 
 
