@@ -45,12 +45,6 @@ This program is very easy to use. Example datasets for the tutorial are at [exam
 
 
 
-## Citation
-If you use this program in your publication, please cite ASCL:TBD
-
-
-
-
 ## Contact Info.
 About the Code
 * Daewon Kim (Max-Planck-Institut für Radioastronomie; MPIfR)
@@ -60,6 +54,12 @@ For GMVA metadata Query
 * TBD@TBD
 
 GMVA data are processed by the MPIfR correlator in Bonn, Germany. Then the correlation team will send the processed GMVA data (FITS-IDI) to PIs with the metadata (ANTAB, WX, etc.).
+
+
+
+
+## Citation
+If you use this program in your publication, please cite ASCL:TBD
 
 
 
