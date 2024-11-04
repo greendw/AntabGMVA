@@ -70,7 +70,7 @@ Any useful information will be added here.
 
 04.11.2024
 * Web-based Jupyter notebook may return empty .png files (thus run it in terminal).
-* Be careful of the column indices/delimeters in GLT ANTAB (they may change with different epoch).
+* Be careful of the column indices/delimeters in GLT ANTAB (they may change with different epochs).
 
 
 
