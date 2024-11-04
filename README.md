@@ -77,8 +77,8 @@ Any useful information will be added here.
  awk 'BEGIN {FS=";" ;OFS="  "} {print $3,$6}' raw.csv > out1
  awk 'NR>1 {print}' out1 > out2
  sed 's/2022-04-03/093 /' out2 > out3
+ ***Then, use this 'out3' for AntabGMVA in Python.***
  ```
-Then, use this 'out3' for AntabGMVA in Python.
 
 
 
