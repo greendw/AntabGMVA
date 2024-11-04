@@ -32,7 +32,7 @@ Requirements
 
 Others
 * It is recommended to use the `IPython` interface (v7.x and v8.x checked).
-* It is highly recommended to run this program in terminal rather than Jupyter through a web browser.
+* It is highly recommended to run this program in terminal rather than `Jupyter` through a web browser.
 * Not all the matplotlib backends were checked, but it works with `Qt5Agg` and `tkagg`.
 
 
