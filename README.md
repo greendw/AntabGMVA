@@ -74,9 +74,9 @@ Any useful information will be added here.
 * For the GLT 'c221c' ANTAB file (GMVA 22A; observed in April 2022), modify the raw data as follow.
 
  ```
-   awk 'BEGIN {FS=";" ;OFS="  "} {print $3,$6}' raw.csv > out1
-   awk 'NR>1 {print}' out1 > out2
-   sed 's/2022-04-03/093 /' out2 > out3
+  awk 'BEGIN {FS=";" ;OFS="  "} {print $3,$6}' raw.csv > out1
+  awk 'NR>1 {print}' out1 > out2
+  sed 's/2022-04-03/093 /' out2 > out3
  ```
 &ensp;&ensp;&ensp;***Then, use this 'out3' for AntabGMVA in Python.***
 
