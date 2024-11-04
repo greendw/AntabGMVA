@@ -71,7 +71,7 @@ Any useful information will be added here.
 04.11.2024
 * Web-based Jupyter notebook may return empty .png files (thus run it in terminal).
 * Be careful of the column indices/delimeters in GLT ANTABs (they may change with different epoch).
-* For the GLT 'c221c' ANTAB file (GMVA 22A), modify the raw data as follow before AntabGMVA in Python.
+* For the GLT 'c221c' ANTAB file (GMVA 22A; observed in April 2022), modify the raw data as follow before AntabGMVA in Python.
  (in terminal)
  ```
  awk 'BEGIN {FS=";" ;OFS="  "} {print $3,$6}' raw.csv > out1
