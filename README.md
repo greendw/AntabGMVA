@@ -78,7 +78,7 @@ Any useful information will be added here.
   awk 'NR>1 {print}' out1 > out2
   sed 's/2022-04-03/093 /' out2 > out3
  ```
-&ensp;&ensp;&ensp;_Then, use this 'out3' for AntabGMVA in Python (see also the tutorial)._
+&ensp;&ensp;&ensp;_Then, use this 'out3' for AntabGMVA in Python (see also Section 3.3.3 in the tutorial)._
 
 
 
