@@ -81,7 +81,7 @@ Any useful information will be added here.
   awk 'NR>1 {print}' out1 > out2
   sed 's/2022-04-03/093 /' out2 > out3
  ```
-&ensp;&ensp;&ensp;_Here, 'out3' is ready for AntabGMVA in Python. For practice, the raw GLT 'c221c' Excel file can be found at [examples/](https://github.com/greendw/AntabGMVA/tree/main/examples/GLT_Excels) (see also Section 3.3.3 in the tutorial)._
+&ensp;&ensp;&ensp;_Here, 'out3' is ready for AntabGMVA in Python. For practice, the raw GLT 'c221c' Excel file can be found at [examples/](https://github.com/greendw/AntabGMVA/tree/main/examples/GLT_Excels) (see also Section 3.3.3 of the tutorial)._
 <br/><br/>
 
 09.11.2024
