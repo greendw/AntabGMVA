@@ -60,13 +60,14 @@ GMVA data are processed by the MPIfR correlator in Bonn, Germany. Then the corre
 
 
 ## Citation
-If you use this program in your publication, please cite ASCL:TBD
+If you use this program in your publication, please cite <b>ASCL:TBD</b><br>
+Thank you for using this program.
 
 
 
 
 ## Important notes
-Any useful information will be added here.
+Any useful information will be added here.<br>
 
 04.11.2024
 * Web-based Jupyter notebook may return empty .png files (thus run it in terminal).
