@@ -71,7 +71,7 @@ Any useful information will be added here.
 04.11.2024
 * Web-based Jupyter notebook may return empty .png files (thus run it in terminal).
 * Be careful of the column indices/delimeters in GLT ANTABs (they may change with different epoch).
-* For the GLT 'c221c' ANTAB file (GMVA 22A; observed in April 2022), modify the raw data as follow.
+* For raw GLT 'c221c' ANTAB file (GMVA 22A; observed in April 2022), modify the raw data as follow.
 
  ```
   awk 'BEGIN {FS=";" ;OFS="  "} {print $3,$6}' raw.csv > out1
@@ -79,6 +79,21 @@ Any useful information will be added here.
   sed 's/2022-04-03/093 /' out2 > out3
  ```
 &ensp;&ensp;&ensp;_Now, 'out3' is ready for AntabGMVA in Python. For practice, the raw GLT c221c Excel file is uploaded in [examples/](https://github.com/greendw/AntabGMVA/tree/main/examples) (see also Section 3.3.3 in the tutorial)._
+
+09.11.2024
+* Raw GLT 'c231a' ANTAB file (GMVA 23A; observed in May 2023) is very complicated. Thus, follow as below.
+* First, save the raw Excel file as 'filename'.csv with the proper file extension: "Text CSV (.csv)".
+
+ ```
+  awk 'BEGIN {FS=";" ;OFS="  "} {print $3,$4,$17}' raw.csv > out1
+  sed 's/2023-05-04/124/; s/2023-05-05/125/; s/2023-05-06/126/; s/2023-05-07/127/; s/2023-05-08/128/; s/2023-05-09/129/' out1 > out2
+  sed 's/NA//' out2 > out3
+  sed 's/, /,/' out3 > out4
+  sed 's/  / /; s/  / /' out4 > out5
+ ```
+&ensp;&ensp;&ensp;_Now, 'out5' is ready for AntabGMVA in Python. For practice, the raw GLT c231a Excel file is uploaded in [examples/](https://github.com/greendw/AntabGMVA/tree/main/examples) (see also Section 3.3.3 in the tutorial)._
+
+
 
 
 
