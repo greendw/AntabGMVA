@@ -81,13 +81,14 @@ Any useful information will be added here.
   awk 'NR>1 {print}' out1 > out2
   sed 's/2022-04-03/093 /' out2 > out3
  ```
-&ensp;&ensp;&ensp;_Now, 'out3' is ready for AntabGMVA in Python. For practice, the raw GLT 'c221c' Excel file can be found at [examples/](https://github.com/greendw/AntabGMVA/tree/main/examples/GLT_Excels) (see also Section 3.3.3 in the tutorial)._
+&ensp;&ensp;&ensp;_Here, 'out3' is ready for AntabGMVA in Python. For practice, the raw GLT 'c221c' Excel file can be found at [examples/](https://github.com/greendw/AntabGMVA/tree/main/examples/GLT_Excels) (see also Section 3.3.3 in the tutorial)._
 <br/><br/>
 
 09.11.2024
 * Raw GLT 'c231a' ANTAB file (GMVA 23A; observed in May 2023) is very complicated. Thus, follow as below.
-* First, save the raw Excel file as 'filename'.csv with the proper file extension: "Text CSV (.csv)".
+* First, open the raw Excel file then: 'save as' -> 'any-name'.csv -> select "Text CSV (.csv)" -> SAVE!.
 * Open this .csv via any text editor and delete rows with no Tsys data: e.g., strikethrough or ".. due to snow".
+* Now, modify this edited .csv file further with the commands below.
 
  ```
   awk 'BEGIN {FS=";" ;OFS="  "} {print $3,$4,$17}' raw.csv > out1
@@ -96,7 +97,7 @@ Any useful information will be added here.
   sed 's/, /,/' out3 > out4
   sed 's/  / /; s/  / /' out4 > out5
  ```
-&ensp;&ensp;&ensp;_Now, 'out5' is ready for AntabGMVA in Python. For practice, the raw GLT 'c231a' Excel file can be found at [examples/](https://github.com/greendw/AntabGMVA/tree/main/examples/GLT_Excels) (see also Section 3.3.3 in the tutorial)._
+&ensp;&ensp;&ensp;_Here 'out5' is ready for AntabGMVA in Python. For practice, the raw GLT 'c231a' Excel file can be found at [examples/](https://github.com/greendw/AntabGMVA/tree/main/examples/GLT_Excels)._
 
 
 
