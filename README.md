@@ -78,7 +78,7 @@ Any useful information will be added here.
   awk 'NR>1 {print}' out1 > out2
   sed 's/2022-04-03/093 /' out2 > out3
  ```
-&ensp;&ensp;&ensp;_Then, use this 'out3' for AntabGMVA in Python (see also Section 3.3.3 in the tutorial)._
+&ensp;&ensp;&ensp;_Now, 'out3' is ready for AntabGMVA in Python. For practice, the raw Excel file will be uploaded in [examples/](https://github.com/greendw/AntabGMVA/tree/main/examples) (see also Section 3.3.3 in the tutorial)._
 
 
 
