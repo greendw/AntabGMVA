@@ -82,6 +82,7 @@ Any useful information will be added here.
   sed 's/2022-04-03/093 /' out2 > out3
  ```
 &ensp;&ensp;&ensp;_Now, 'out3' is ready for AntabGMVA in Python. For practice, the raw GLT c221c Excel file is uploaded in [examples/](https://github.com/greendw/AntabGMVA/tree/main/examples) (see also Section 3.3.3 in the tutorial)._
+<br/><br/>
 
 09.11.2024
 * Raw GLT 'c231a' ANTAB file (GMVA 23A; observed in May 2023) is very complicated. Thus, follow as below.
