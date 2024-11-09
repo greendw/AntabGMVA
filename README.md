@@ -67,7 +67,8 @@ Thank you for using this program.
 
 
 ## Important notes
-Any useful information will be added here.<br>
+Any useful information will be added here.
+<br>
 
 04.11.2024
 * Web-based Jupyter notebook may return empty .png files (thus run it in terminal).
