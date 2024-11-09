@@ -60,7 +60,8 @@ GMVA data are processed by the MPIfR correlator in Bonn, Germany. Then the corre
 
 
 ## Citation
-If you use this program in your publication, please cite <b>ASCL:TBD</b><br>
+If you use this program in your publication, please cite <b>ASCL:TBD</b>.
+
 Thank you for using this program.
 
 
