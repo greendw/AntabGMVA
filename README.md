@@ -86,7 +86,7 @@ Any useful information will be added here.
 
 09.11.2024
 * Raw GLT 'c231a' ANTAB file (GMVA 23A; observed in May 2023) is very complicated. Thus, follow as below.
-* First, open the raw Excel file then: 'save as' -> 'any-name'.csv -> select "Text CSV (.csv)" -> SAVE!.
+* First, open the raw Excel file then: 'save as' -> 'any-name'.csv -> select "Text CSV (.csv)" -> SAVE!
 * Open this .csv via any text editor and delete rows with no Tsys data: e.g., strikethrough or ".. due to snow".
 * Now, modify this edited .csv file further with the commands below.
 
