@@ -53,8 +53,8 @@ About the Code
 * Daewon Kim (NASA Goddard Space Flight Center; GSFC)
 * Email: dwkimastro@gmail.com (or daewon.kim@nasa.gov)
 
-<!-->For GMVA metadata Query
-<!-->* TBD@TBD
+<!-- For GMVA metadata Query -->
+<!-- * TBD@TBD -->
 
 GMVA data are processed by the MPIfR correlator in Bonn, Germany. Then the correlation team will send the processed GMVA data (FITS-IDI) to PIs with metadata (ANTAB, WX, etc.).
 
