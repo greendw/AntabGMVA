@@ -48,14 +48,15 @@ This program is very easy to use. Example datasets for the tutorial are at [exam
 
 ## Contact Info.
 About the Code
-<!-- This is a hidden comment. -->
-* Daewon Kim (Max-Planck-Institut für Radioastronomie; MPIfR)
-* Email: dwkim@mpifr-bonn.mpg.de (or dwkimastro@gmail.com)
+<!-- Daewon Kim (Max-Planck-Institut für Radioastronomie; MPIfR) -->
+<!-- Email: dwkim@mpifr-bonn.mpg.de (or dwkimastro@gmail.com) -->
+* Daewon Kim (NASA Goddard Space Flight Center; GSFC)
+* Email: dwkimastro@gmail.com (or daewon.kim@nasa.gov)
 
-For GMVA metadata Query
-* TBD@TBD
+<!-->For GMVA metadata Query
+<!-->* TBD@TBD
 
-GMVA data are processed by the MPIfR correlator in Bonn, Germany. Then the correlation team will send the processed GMVA data (FITS-IDI) to PIs with the metadata (ANTAB, WX, etc.).
+GMVA data are processed by the MPIfR correlator in Bonn, Germany. Then the correlation team will send the processed GMVA data (FITS-IDI) to PIs with metadata (ANTAB, WX, etc.).
 
 
 
