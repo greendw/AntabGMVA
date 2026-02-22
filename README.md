@@ -48,6 +48,7 @@ This program is very easy to use. Example datasets for the tutorial are at [exam
 
 ## Contact Info.
 About the Code
+<!-- This is a hidden comment. -->
 * Daewon Kim (Max-Planck-Institut für Radioastronomie; MPIfR)
 * Email: dwkim@mpifr-bonn.mpg.de (or dwkimastro@gmail.com)
 
